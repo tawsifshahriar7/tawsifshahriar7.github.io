@@ -9,40 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology, 2023
+- HSC, Rajshahi College, 2017
+- SSC, Govt. Laboratory High School, Rajshahi, 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Spring 2024: Lecturer
 
-Publications
-======
+  - Computer Networks
+  - Operating Systems
+
+- Fall 2023: Lecturer
+
+  - Data Communications
+  - Computer Networks
+  - Operating Systems
+
+- Summer 2023: Lecturer
+  - Data Communications
+  - Computer Networks
+  - Operating Systems
+
+# Skills
+
+- Skill 1
+- Skill 2
+  - Sub-skill 2.1
+  - Sub-skill 2.2
+  - Sub-skill 2.3
+- Skill 3
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
